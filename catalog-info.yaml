@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: proyecto_git
+  annotations:
+    github.com/project-slug: juligomez2008/proyecto_git
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
