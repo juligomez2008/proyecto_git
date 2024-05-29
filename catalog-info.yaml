@@ -8,6 +8,6 @@ metadata:
     pluginopex/parametro2: 'esta es una prueba'
     pluginopex/city: 'Bogota'
 spec:
-  type: other
+  type: service
   lifecycle: unknown
   owner: guests
