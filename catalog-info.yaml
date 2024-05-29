@@ -4,9 +4,9 @@ metadata:
   name: proyecto_git
   annotations:
     github.com/project-slug: juligomez2008/proyecto_git
-    venue/parametro1: 1234567890abcdefg
-    venue/parametro2: 'esta es una prueba'
-    venue/city: 'Bogota'
+    pluginopex/parametro1: 1234567890abcdefg
+    pluginopex/parametro2: 'esta es una prueba'
+    pluginopex/city: 'Bogota'
 spec:
   type: other
   lifecycle: unknown
